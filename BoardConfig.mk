@@ -177,8 +177,5 @@ TW_BATTERY_PATH := /sys/class/power_supply/battery
 TW_BACKUP_EXCLUSIONS := /data/fonts,/data/adb/ap,/data/adb/ksu
 TW_LOAD_VENDOR_MODULES := "msm_drm.ko focaltech_touch.ko adsp_loader_dlkm.ko qti_battery_charger_main.ko exfat.ko"
 
-# Maintainer/Version
-TW_DEVICE_VERSION := by_Lucifer
-
 # FPS
  TW_FRAMERATE := 120
