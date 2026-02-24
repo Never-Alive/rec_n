@@ -179,6 +179,3 @@ TW_LOAD_VENDOR_MODULES := "msm_drm.ko focaltech_touch.ko adsp_loader_dlkm.ko qti
 
 # Maintainer/Version
 TW_DEVICE_VERSION := by_Lucifer
-
-# FPS
- TW_FRAMERATE := 120
