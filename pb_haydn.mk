@@ -24,7 +24,7 @@ PRODUCT_RELEASE_NAME := haydn
 
 # Device identifier
 PRODUCT_DEVICE := haydn
-PRODUCT_NAME := twrp_haydn
+PRODUCT_NAME := pb_haydn
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Xiaomi 11i
 PRODUCT_MANUFACTURER := Xiaomi

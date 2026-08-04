@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/twrp_haydn.mk
+	$(LOCAL_DIR)/pb_haydn.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_haydn-user \
-    twrp_haydn-userdebug \
-    twrp_haydn-eng
+    pb_haydn-user \
+    pb_haydn-userdebug \
+    pb_haydn-eng
